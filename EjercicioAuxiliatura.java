@@ -1,6 +1,7 @@
 package for1;
 
 import java.util.Scanner;
+//holaa XD
 
 public class EjercicioAuxiliatura {
     public static void main(String[] args) {
