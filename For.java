@@ -11,7 +11,7 @@ public class For {
         verdadero
         } */
        //int i;
-       // i=i+2  es lo mismo que i+=2
+       // i=i+2  es lo mismo que --> i+=2
        int n = new Scanner(System.in).nextInt();
         for(int i=2;i<=n*10;i+=2){
             System.out.println(i);
